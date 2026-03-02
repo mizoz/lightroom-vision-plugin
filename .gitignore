@@ -1,0 +1,13 @@
+# Lightroom plugin generated files
+*.lrplugin/Contents.lrdata/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
